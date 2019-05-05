@@ -1,4 +1,4 @@
-# uilive [![GoDoc](https://godoc.org/github.com/gosuri/uilive?status.svg)](https://godoc.org/github.com/docker-slim/uilive) [![Build Status](https://travis-ci.org/gosuri/uilive.svg?branch=master)](https://travis-ci.org/docker-slim/uilive)
+# uilive [![GoDoc](https://godoc.org/github.com/docker-slim/uilive?status.svg)](https://godoc.org/github.com/docker-slim/uilive) [![Build Status](https://travis-ci.org/docker-slim/uilive.svg?branch=master)](https://travis-ci.org/docker-slim/uilive)
 
 ## Note
 
