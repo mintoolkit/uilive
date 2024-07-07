@@ -1,4 +1,4 @@
-# uilive [![GoDoc](https://godoc.org/github.com/docker-slim/uilive?status.svg)](https://godoc.org/github.com/docker-slim/uilive) [![Build Status](https://travis-ci.org/docker-slim/uilive.svg?branch=master)](https://travis-ci.org/docker-slim/uilive)
+# uilive [![GoDoc](https://godoc.org/github.com/mintoolkit/uilive?status.svg)](https://godoc.org/github.com/mintoolkit/uilive) [![Build Status](https://travis-ci.org/mintoolkit/uilive.svg?branch=master)](https://travis-ci.org/mintoolkit/uilive)
 
 ## Note
 
@@ -6,7 +6,7 @@ Fixing the os.Exit problem and a few other things...
 
 ## Original Package Info
 
-uilive is a go library for updating terminal output in realtime. It provides a buffered [io.Writer](https://golang.org/pkg/io/#Writer) that is flushed at a timed interval. uilive powers [uiprogress](https://github.com/docker-slim/uiprogress).
+uilive is a go library for updating terminal output in realtime. It provides a buffered [io.Writer](https://golang.org/pkg/io/#Writer) that is flushed at a timed interval. uilive powers [uiprogress](https://github.com/mintoolkit/uiprogress).
 
 ### Usage Example
 
@@ -33,5 +33,5 @@ The above will render
 ### Installation
 
 ```sh
-$ go get -v github.com/docker-slim/uilive
+$ go get -v github.com/mintoolkit/uilive
 ```
